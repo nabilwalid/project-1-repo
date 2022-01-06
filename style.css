@@ -1,0 +1,56 @@
+body{
+    font-family: 'Mukta', sans-serif;
+}
+h1{
+    color: rgb(162, 241, 16);
+}
+h2{
+    color: darkorange;
+}
+.top{
+    font-size: 80px;
+    border-left: 5px solid yellowgreen;
+}
+span{
+    color: rgb(248, 24, 8);
+}
+.button{
+    color:rgb(250, 10, 10);
+    text-decoration: grey;
+    background-image: linear-gradient(tomato,rgb(251, 255, 9));
+    font-weight: 600;
+    border: lime solid 2px;
+    box-shadow: 5px 5px 2px;
+    border-radius: 5px;
+
+}
+.half-width{
+    width: 100%;
+    padding: 50px;
+    border: mediumpurple 10px;
+    border-radius: 10px;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 50px;
+    background-color:linen;
+    border: 15px rgb(209, 211, 77);
+    border-radius: 15px;
+    margin: 20px 30px;
+    padding: 10px;
+}
+.centering{
+    text-align: center;
+}
+.image-sigeing{
+    display: block;
+    margin:auto;
+   
+    width: 60%;
+    height: 40%;
+    border: rgb(235, 236, 136) 10px solid;
+}
+.name-edit{
+    color: yellow;
+}
